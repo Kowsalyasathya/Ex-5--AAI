@@ -1,4 +1,4 @@
-<H3>ENTER YOUR NAME:KOWSALYA M</H3>
+<H3>ENTER YOUR NAME: KOWSALYA M</H3>
 <H3>ENTER YOUR REGISTER NO: 212222230069</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE:</H3>
@@ -12,7 +12,8 @@ Step 3: For each measurement, predict the next state using kf.predict().<BR>
 Step 4: Update the state estimate based on the measurement using kf.update().<BR>
 Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
-<H3>Program:</H3>
+
+## Program:
 ```
 import numpy as np
 import matplotlib.pyplot as plt
